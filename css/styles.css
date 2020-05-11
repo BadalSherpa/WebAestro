@@ -2,6 +2,10 @@ body {
   margin: 0;
   text-align: center;
 }
+.container-fluid{
+  width: 100%;
+  padding: 0 0;
+}
 
 h1 {
   color: #11999E;
